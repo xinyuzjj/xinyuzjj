@@ -1,7 +1,7 @@
 <div align="center">
   <div align="center">
   </div>
-  <h1 align="center">Hey there! Welcome to my profile <img src="https://raw.githubusercontent.com/Rabenherz112/Rabenherz112/main/assets/waving.gif" alt="Waving Hand" width="28" height="28"></h1>
+  <h1 align="center">欢迎来到我的个人主页 <img src="https://raw.githubusercontent.com/Rabenherz112/Rabenherz112/main/assets/waving.gif" alt="Waving Hand" width="28" height="28"></h1>
   <br>
   <picture>
     <source
