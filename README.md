@@ -18,7 +18,7 @@
     />
   </picture>
   <br>
-  <a href="https://t.me/junjunnizz"><img src="https://img.shields.io/badge/-Channel-1a1b27?style=for-the-badge&logo=telegram" alt="Telegram channel"></a>
+  <a href="https://t.me/junjunnizxczz"><img src="https://img.shields.io/badge/-Channel-1a1b27?style=for-the-badge&logo=telegram" alt="Telegram channel"></a>
   <br>
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Desamod&label=Profile%20Visits&style=for-the-badge" />
   <br>
