@@ -25,38 +25,7 @@
   <br>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center"> Support me <img src="https://www.kindpng.com/picc/b/237-2379108_donate-icon-png.png" alt="Donate logo" width="50" height="50"></h1>
-<h1 align="left"><img src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg?v=032" alt="Bitcoin logo" width="30" height="30"> Bitcoin </h1>
 
-```
-bc1p4umpqu755hy3cw56uf5f7j7rafcjvrjgf9dp7qej3yc3tdtng88sj800y6
-```
-<h1 align="left">
-  <img src="https://cryptologos.cc/logos/tether-usdt-logo.svg?v=032" alt="Tether logo" width="30" height="30">
-  <img src="https://cryptologos.cc/logos/toncoin-ton-logo.svg?v=032" alt="Toncoin logo" width="30" height="30">
-  USDT Ton | Toncoin | Notcoin </h1>
-
-```
-UQCoetOImEgtp3dDMeVRV7WtkN8ysxdeExabQQOdyUehqNyp
-```
-
-<h1 align="left">
-  <img src="https://cryptologos.cc/logos/tether-usdt-logo.svg?v=032" alt="Tether logo" width="30" height="30">
-  <img src="https://cdn.bitkeep.vip/u_b_fdfe0be0-c215-11ed-bb06-6b42bb500220.png" alt="Tron logo" width="30" height="30"> 
-  USDT TRC20 | Tron </h1>
-  
-```
-TZBp1UGNyABmiMnynGbiW53WJLCYqorLMT
-```
-<h1 align="left">
-  <img src="https://cryptologos.cc/logos/tether-usdt-logo.svg?v=032" alt="Tether logo" width="30" height="30">
-  <img src="https://logos-download.com/wp-content/uploads/2023/02/BNB_BNB_Logo-3000x3000.png" alt="BEP logo" width="30" height="30"> 
-  USDT BEP20 </h1>
-  
-```
-0x8d7de458060bd070fe69f14031f0f44d143903ff
-```
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div id="stats" align="center" style="display: flex; flex-direction: column;">
     <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" width="30"> Github Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" width="30"></h2>
