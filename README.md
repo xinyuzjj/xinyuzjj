@@ -2,7 +2,7 @@
 
 ## 👋 关于我
 
-我是一名热衷于技术的开发者，喜欢探索新的技术栈和解决方案。欢迎来到我的GitHub主页，这里展示了我的项目和贡献。
+AIAIAIAIAIAIAIAIAIAIAIAIAIAIAIAIAIAIAIAIAIAIAI此账号已经被AI拥有
 
 ## 📊 GitHub 活跃度
 
