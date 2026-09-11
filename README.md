@@ -27,14 +27,6 @@
 </td></tr>
 </table>
 
-## 🛠 技术栈
-
-<div align="center">
-
-<a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,fastapi,react,vite,tailwindcss,electron,nodejs,sqlite,docker,git,githubactions&titles=true" alt="Tech Stack"/></a>
-
-</div>
-
 ## 📌 精选项目
 
 <div align="center">
@@ -50,6 +42,14 @@
 
 </div>
 
+## 🛠 技术栈
+
+<div align="center">
+
+<a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,fastapi,react,vite,tailwindcss,electron,nodejs,sqlite,docker,git,githubactions&titles=true" alt="Tech Stack"/></a>
+
+</div>
+
 ## 📊 GitHub 统计
 
 <div align="center">
@@ -60,6 +60,26 @@
 <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=xinyuzjj&theme=discord&no-frame=true&row=1&column=6&margin-w=8"/>
+
+</div>
+
+## 📈 贡献热力图
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xinyuzjj&theme=github-compact-dark&hide_border=true&area=true&custom_title=%E6%AF%8F%E4%B8%80%E6%A0%BC%E9%83%BD%E6%98%AF%E4%B8%80%E6%AC%A1%E5%87%BA%E6%89%8B" width="100%"/>
+
+</div>
+
+## 🧊 3D 贡献立体图
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xinyuzjj/xinyuzjj/output/profile-3d-contrib/profile-night-react.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xinyuzjj/xinyuzjj/output/profile-3d-contrib/profile-green-animate.svg"/>
+  <img alt="3d contrib" src="https://raw.githubusercontent.com/xinyuzjj/xinyuzjj/output/profile-3d-contrib/profile-green-animate.svg" width="100%"/>
+</picture>
 
 </div>
 
