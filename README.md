@@ -1,10 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0c29,50:6a11cb,100:2575fc&section=header&text=junjunni&fontSize=80&fontColor=ffffff&fontAlignY=34&desc=%E2%9A%A1%20%E6%9E%84%E5%BB%BA%E4%BC%9A%E7%9C%9F%E6%AD%A3%E5%8A%A8%E6%89%8B%E7%9A%84%20AI%20%E4%BA%A4%E6%98%93%20Agent&descSize=19&descAlignY=55&animation=twinkling" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0c29,50:6a11cb,100:2575fc&section=header&text=junjunni&fontSize=90&fontColor=ffffff&fontAlignY=42&animation=twinkling" width="100%" alt="banner"/>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=860&lines=%E4%BC%9A%E7%9C%9F%E6%AD%A3%E5%8A%A8%E6%89%8B%E7%9A%84%20AI%20Agent%EF%BC%8C%E4%B8%8D%E6%98%AF%E5%8F%88%E4%B8%80%E4%B8%AA%E8%81%8A%E5%A4%A9%E6%A1%86;BAZZ.AGENT%20%E4%BD%9C%E8%80%85%20%C2%B7%20%E5%B8%81%E5%AE%89%20Agent%20OS%20%E7%94%9F%E6%80%81;MCP+%E2%80%A2+Agentic+Wallet+%E2%80%A2+x402+%E2%80%A2+Skill+Hub;Python+%C2%B7+TypeScript+%C2%B7+Electron+%C2%B7+FastAPI+%C2%B7+React" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=860&lines=%E2%9A%A1+%E6%9E%84%E5%BB%BA%E4%BC%9A%E7%9C%9F%E6%AD%A3%E5%8A%A8%E6%89%8B%E7%9A%84+AI+%E4%BA%A4%E6%98%93+Agent+%C2%B7+%E5%B8%81%E5%AE%89+Agent+OS+%E9%BB%91%E5%AE%A2%E6%9D%BE;%E4%BC%9A%E7%9C%9F%E6%AD%A3%E5%8A%A8%E6%89%8B%E7%9A%84%20AI%20Agent%EF%BC%8C%E4%B8%8D%E6%98%AF%E5%8F%88%E4%B8%80%E4%B8%AA%E8%81%8A%E5%A4%A9%E6%A1%86;MCP+%E2%80%A2+Agentic+Wallet+%E2%80%A2+x402+%E2%80%A2+Skill+Hub;Python+%C2%B7+TypeScript+%C2%B7+Electron+%C2%B7+FastAPI+%C2%B7+React" alt="Typing SVG"/></a>
 
-[![Binance](https://img.shields.io/badge/🎯_赛道-币安_Agent_OS_黑客松-8b5cf6?style=flat-square)](https://github.com/xinyuzjj/bazz.agent)
 [![Followers](https://img.shields.io/github/followers/xinyuzjj?label=关注&color=06b6d4&style=flat-square)](https://github.com/xinyuzjj)
 [![Stars](https://img.shields.io/github/stars/xinyuzjj/bazz.agent?label=BAZZ.AGENT_Stars&color=2ea44f&style=flat-square)](https://github.com/xinyuzjj/bazz.agent/stargazers)
 [![Visitors](https://komarev.com/ghpvc/?username=xinyuzjj&label=访客&color=8b5cf6&style=flat-square)](https://github.com/xinyuzjj)
