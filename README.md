@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00D4FF&center=true&vCenter=true&width=900&lines=%E4%BC%9A%E7%9C%9F%E6%AD%A3%E5%8A%A8%E6%89%8B%E7%9A%84%20AI%20Agent%EF%BC%8C%E4%B8%8D%E6%98%AF%E5%8F%88%E4%B8%80%E4%B8%AA%E8%81%8A%E5%A4%A9%E6%A1%86;MCP+%E2%80%A2+Agentic+Wallet+%E2%80%A2+x402+%E2%80%A2+Skill+Hub;Python+%C2%B7+TypeScript+%C2%B7+Electron+%C2%B7+FastAPI+%C2%B7+React" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1600&color=00D4FF&center=true&vCenter=true&width=900&lines=%F0%9F%93%A7+%E9%82%AE%E7%AE%B1%EF%BC%9A1105002234%40qq.com;%F0%9F%92%AC+%E5%BE%AE%E4%BF%A1%EF%BC%9Ajunjunnizz;%F0%9F%93%B1+%E7%94%B5%E6%8A%A5%EF%BC%9Ajunjunnizxcz;%F0%9D%95%8F+%E6%8E%A8%E7%89%B9%EF%BC%9A%40hll404357315674" alt="Typing SVG"/></a>
 
 [![Followers](https://img.shields.io/github/followers/xinyuzjj?label=关注&color=06b6d4&style=flat-square)](https://github.com/xinyuzjj)
 [![Stars](https://img.shields.io/github/stars/xinyuzjj/bazz.agent?label=BAZZ.AGENT_Stars&color=2ea44f&style=flat-square)](https://github.com/xinyuzjj/bazz.agent/stargazers)
@@ -30,7 +30,8 @@
 
 <div align="center">
 
-<a href="https://github.com/xinyuzjj/bazz.agent"><img src="https://img.shields.io/badge/⭐_BAZZ.AGENT-去看看-6a11cb?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/xinyuzjj/bazz.agent"><img src="https://img.shields.io/badge/⭐_BAZZ.AGENT-去看看-6a11cb?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://xinyuzjj.github.io/bazz.agent/"><img src="https://img.shields.io/badge/🖥_在线演示-点我体验-06b6d4?style=for-the-badge"/></a>
 
 <br/>
 
@@ -38,8 +39,6 @@
 ![Forks](https://img.shields.io/github/forks/xinyuzjj/bazz.agent?style=flat-square&color=06b6d4&label=Forks)
 ![Issues](https://img.shields.io/github/issues/xinyuzjj/bazz.agent?style=flat-square&color=f0b90b&label=Issues)
 ![Last Commit](https://img.shields.io/github/last-commit/xinyuzjj/bazz.agent?style=flat-square&color=2ea44f&label=最近提交)
-
-币安 Agent OS 黑客松 Track A 参赛作品 · 在线演示：https://xinyuzjj.github.io/bazz.agent/
 
 </div>
 
@@ -97,13 +96,10 @@
 
 <div align="center">
 
-<a href="mailto:1105002234@qq.com"><img src="https://img.shields.io/badge/📧_邮箱-1105002234%40qq.com-8b5cf6?style=for-the-badge"/></a>
-
-<a href="https://t.me/junjunnizxcz"><img src="https://img.shields.io/badge/电报-junjunnizxcz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-
-<a href="https://x.com/hll404357315674"><img src="https://img.shields.io/badge/推特-%40hll404357315674-ffffff?style=for-the-badge&logo=x&logoColor=black"/></a>
-
-<img src="https://img.shields.io/badge/微信-junjunnizz-22c55e?style=for-the-badge&logo=wechat&logoColor=white"/>
+<a href="mailto:1105002234@qq.com"><img src="https://img.shields.io/badge/📧-1105002234%40qq.com-8b5cf6?style=for-the-badge"/></a>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/💬-junjunnizz-22c55e?style=for-the-badge"/>&nbsp;&nbsp;
+<a href="https://t.me/junjunnizxcz"><img src="https://img.shields.io/badge/📱-junjunnizxcz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://x.com/hll404357315674"><img src="https://img.shields.io/badge/𝕏-@hll404357315674-ffffff?style=for-the-badge&logo=x&logoColor=black"/></a>
 
 </div>
 
