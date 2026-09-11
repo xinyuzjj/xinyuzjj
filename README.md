@@ -76,9 +76,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xinyuzjj/xinyuzjj/output/profile-3d-contrib/profile-night-react.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xinyuzjj/xinyuzjj/output/profile-3d-contrib/profile-green-animate.svg"/>
-  <img alt="3d contrib" src="https://raw.githubusercontent.com/xinyuzjj/xinyuzjj/output/profile-3d-contrib/profile-green-animate.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xinyuzjj/xinyuzjj/output/profile-night-rainbow.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xinyuzjj/xinyuzjj/output/profile-green-animate.svg"/>
+  <img alt="3d contrib" src="https://raw.githubusercontent.com/xinyuzjj/xinyuzjj/output/profile-green-animate.svg" width="100%"/>
 </picture>
 
 </div>
